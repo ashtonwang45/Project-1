@@ -1,0 +1,144 @@
+{
+  "customers": [
+    {
+      "customerId": "CUST-001",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.smith@example.com",
+      "phone": "555-0101",
+      "address": "123 Maple St",
+      "city": "Springfield",
+      "state": "IL",
+      "zipCode": "62701",
+      "status": "Active"
+    },
+    {
+      "customerId": "CUST-002",
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.j@example.com",
+      "phone": "555-0102",
+      "address": "456 Oak Ave",
+      "city": "Metropolis",
+      "state": "NY",
+      "zipCode": "10001",
+      "status": "Inactive"
+    },
+    {
+      "customerId": "CUST-003",
+      "firstName": "Carol",
+      "lastName": "Williams",
+      "email": "carol.w@example.com",
+      "phone": "555-0103",
+      "address": "789 Pine Rd",
+      "city": "Gotham",
+      "state": "NJ",
+      "zipCode": "07001",
+      "status": "Active"
+    },
+    {
+      "customerId": "CUST-004",
+      "firstName": "David",
+      "lastName": "Brown",
+      "email": "dbrown@example.com",
+      "phone": "555-0104",
+      "address": "321 Elm St",
+      "city": "Star City",
+      "state": "CA",
+      "zipCode": "90210",
+      "status": "Active"
+    },
+    {
+      "customerId": "CUST-005",
+      "firstName": "Eve",
+      "lastName": "Davis",
+      "email": "eve.davis@example.com",
+      "phone": "555-0105",
+      "address": "654 Birch Blvd",
+      "city": "Central City",
+      "state": "OH",
+      "zipCode": "43215",
+      "status": "Pending"
+    }
+  ],
+  "products": [
+    {
+      "productId": "PROD-101",
+      "name": "Ergonomic Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 129.99,
+      "stock": 45,
+      "status": "In Stock"
+    },
+    {
+      "productId": "PROD-102",
+      "name": "Ultra-Wide 4K Gaming Monitor",
+      "category": "Electronics",
+      "price": 499.50,
+      "stock": 18,
+      "status": "In Stock"
+    },
+    {
+      "productId": "PROD-103",
+      "name": "Noise-Cancelling Wireless Headphones",
+      "category": "Audio",
+      "price": 249.00,
+      "stock": 32,
+      "status": "In Stock"
+    },
+    {
+      "productId": "PROD-104",
+      "name": "Adjustable Standing Desk",
+      "category": "Furniture",
+      "price": 389.00,
+      "stock": 12,
+      "status": "In Stock"
+    },
+    {
+      "productId": "PROD-105",
+      "name": "Smart High-Definition Webcam",
+      "category": "Accessories",
+      "price": 89.95,
+      "stock": 0,
+      "status": "Out of Stock"
+    }
+  ],
+  "offices": [
+    {
+      "officeId": "OFF-01",
+      "name": "Global Headquarters",
+      "city": "Chicago",
+      "state": "IL",
+      "address": "100 N Riverside Plaza",
+      "phone": "312-555-0199",
+      "employees": 240
+    },
+    {
+      "officeId": "OFF-02",
+      "name": "Northeast Regional Branch",
+      "city": "New York",
+      "state": "NY",
+      "address": "450 Lexington Ave",
+      "phone": "212-555-0144",
+      "employees": 115
+    },
+    {
+      "officeId": "OFF-03",
+      "name": "West Coast Tech Hub",
+      "city": "San Francisco",
+      "state": "CA",
+      "address": "500 Howard St",
+      "phone": "415-555-0177",
+      "employees": 180
+    },
+    {
+      "officeId": "OFF-04",
+      "name": "Southern Operations Center",
+      "city": "Austin",
+      "state": "TX",
+      "address": "701 Brazos St",
+      "phone": "512-555-0122",
+      "employees": 95
+    }
+  ]
+}
